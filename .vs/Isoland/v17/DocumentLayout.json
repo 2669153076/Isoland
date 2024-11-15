@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Isoland\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|e:\\github\\isoland\\assets\\scripts\\manager\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|e:\\github\\isoland\\assets\\scripts\\transition\\transitionmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\transitionmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\dialogue\\logic\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\logic\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\utilities\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\interactive\\characterh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactive\\characterh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\cursor\\cursormgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cursor\\cursormgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\dialogue\\ui\\dialogueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\ui\\dialogueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\inventory\\ui\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\ui\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\dialogue\\data\\dialoguedata_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\data\\dialoguedata_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\inventory\\logic\\inventorymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\logic\\inventorymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameMgr.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Manager\\GameMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameMgr.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Manager\\GameMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:50:47.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransitionMgr.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Transition\\TransitionMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\TransitionMgr.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Transition\\TransitionMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\TransitionMgr.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:39:52.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Utilities\\Enums.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\Enums.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Utilities\\Enums.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:37:09.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CursorMgr.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Cursor\\CursorMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cursor\\CursorMgr.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Cursor\\CursorMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cursor\\CursorMgr.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:28:01.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogueController.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:04:55.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DialogueUI.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\UI\\DialogueUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\UI\\DialogueUI.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\UI\\DialogueUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\UI\\DialogueUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:03:51.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterH2.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Interactive\\CharacterH2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactive\\CharacterH2.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Interactive\\CharacterH2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactive\\CharacterH2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:49:50.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DialogueData_SO.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\Data\\DialogueData_SO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\Data\\DialogueData_SO.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\Data\\DialogueData_SO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\Data\\DialogueData_SO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:36:31.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventHandler.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Utilities\\EventHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\EventHandler.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Utilities\\EventHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\EventHandler.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:31:30.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryMgr.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Inventory\\Logic\\InventoryMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Logic\\InventoryMgr.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Inventory\\Logic\\InventoryMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Logic\\InventoryMgr.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwEYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:11:48.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Inventory\\UI\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\UI\\InventoryUI.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Inventory\\UI\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\UI\\InventoryUI.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:11:20.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
