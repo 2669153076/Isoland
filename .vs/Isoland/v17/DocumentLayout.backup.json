@@ -3,44 +3,88 @@
   "WorkspaceRootPath": "E:\\GitHub\\Isoland\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|e:\\github\\isoland\\assets\\scripts\\transition\\transitionmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\inventory\\logic\\inventorymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\logic\\inventorymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|e:\\github\\isoland\\assets\\scripts\\savaload\\gamesavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savaload\\gamesavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\manager\\objectmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\objectmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\transition\\transitionmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\transitionmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\dialogue\\logic\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\logic\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\manager\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\savaload\\saveloadmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savaload\\saveloadmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|e:\\github\\isoland\\assets\\scripts\\savaload\\isaveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savaload\\isaveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\minigame\\logic\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame\\logic\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\utilities\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|e:\\github\\isoland\\assets\\scripts\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\cursor\\cursormgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cursor\\cursormgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\minigame\\data\\gameh2a_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame\\data\\gameh2a_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\minigame\\logic\\minigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame\\logic\\minigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\minigame\\logic\\h2areset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame\\logic\\h2areset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\interactive\\interactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactive\\interactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\minigame\\logic\\holder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame\\logic\\holder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\minigame\\logic\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minigame\\logic\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\dialogue\\logic\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\logic\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\interactive\\characterh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactive\\characterh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|e:\\github\\isoland\\assets\\scripts\\cursor\\cursormgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cursor\\cursormgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\transition\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\dialogue\\ui\\dialogueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\ui\\dialogueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\inventory\\ui\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\ui\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\dialogue\\data\\dialoguedata_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogue\\data\\dialoguedata_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\inventory\\logic\\inventorymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\logic\\inventorymgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|E:\\GitHub\\Isoland\\assets\\scripts\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF633551-B324-4CD5-DD00-9866F97E3099}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,133 +94,266 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TransitionMgr.cs",
-              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Transition\\TransitionMgr.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\TransitionMgr.cs",
-              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Transition\\TransitionMgr.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Transition\\TransitionMgr.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T02:39:52.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Utilities\\Enums.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\Enums.cs",
-              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Utilities\\Enums.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Utilities\\Enums.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T02:37:09.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CursorMgr.cs",
-              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Cursor\\CursorMgr.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Cursor\\CursorMgr.cs",
-              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Cursor\\CursorMgr.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Cursor\\CursorMgr.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAIwDwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T13:28:01.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DialogueController.cs",
-              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
-              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABIAAAAAAAAAA==",
+              "Title": "GameSaveData.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\SavaLoad\\GameSaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SavaLoad\\GameSaveData.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\SavaLoad\\GameSaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SavaLoad\\GameSaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T13:04:55.525Z",
+              "WhenOpened": "2024-11-16T11:10:36.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DialogueUI.cs",
-              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\UI\\DialogueUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\UI\\DialogueUI.cs",
-              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\UI\\DialogueUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\UI\\DialogueUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Title": "ISaveable.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\SavaLoad\\ISaveable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SavaLoad\\ISaveable.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\SavaLoad\\ISaveable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SavaLoad\\ISaveable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T13:03:51.019Z"
+              "WhenOpened": "2024-11-16T11:09:30.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CharacterH2.cs",
-              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Interactive\\CharacterH2.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactive\\CharacterH2.cs",
-              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Interactive\\CharacterH2.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interactive\\CharacterH2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "SaveLoadMgr.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\SavaLoad\\SaveLoadMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SavaLoad\\SaveLoadMgr.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\SavaLoad\\SaveLoadMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SavaLoad\\SaveLoadMgr.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwDwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:49:50.424Z",
+              "WhenOpened": "2024-11-16T11:07:24.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectMgr.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Manager\\ObjectMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\ObjectMgr.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Manager\\ObjectMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\ObjectMgr.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:55:45.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "DialogueData_SO.cs",
-              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\Data\\DialogueData_SO.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\Data\\DialogueData_SO.cs",
-              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\Data\\DialogueData_SO.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\Data\\DialogueData_SO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MainMenu\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MainMenu.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MainMenu\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\MainMenu.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:36:31.196Z"
+              "WhenOpened": "2024-11-16T10:28:53.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "CursorMgr.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Cursor\\CursorMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cursor\\CursorMgr.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Cursor\\CursorMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cursor\\CursorMgr.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:04:46.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameMgr.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Manager\\GameMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameMgr.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Manager\\GameMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:54:24.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MiniGame.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Logic\\MiniGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGame\\Logic\\MiniGame.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Logic\\MiniGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniGame\\Logic\\MiniGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:48:48.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Interactive.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Interactive\\Interactive.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactive\\Interactive.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Interactive\\Interactive.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactive\\Interactive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:34:23.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "H2AReset.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Logic\\H2AReset.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGame\\Logic\\H2AReset.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Logic\\H2AReset.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniGame\\Logic\\H2AReset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:34:09.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "EventHandler.cs",
               "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Utilities\\EventHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\EventHandler.cs",
               "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Utilities\\EventHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\Utilities\\EventHandler.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwC0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwD8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:31:30.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T09:24:11.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "InventoryMgr.cs",
               "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Inventory\\Logic\\InventoryMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Logic\\InventoryMgr.cs",
               "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Inventory\\Logic\\InventoryMgr.cs",
               "RelativeToolTip": "Assets\\Scripts\\Inventory\\Logic\\InventoryMgr.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAiwEYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:11:48.39Z"
+              "WhenOpened": "2024-11-16T09:04:31.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransitionMgr.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Transition\\TransitionMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\TransitionMgr.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Transition\\TransitionMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\TransitionMgr.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:04:24.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DialogueController.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialogue\\Logic\\DialogueController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:04:07.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CharacterH2.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Interactive\\CharacterH2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactive\\CharacterH2.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Interactive\\CharacterH2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactive\\CharacterH2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:03:46.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Teleport.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Transition\\Teleport.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\Teleport.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Transition\\Teleport.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\Teleport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:57:06.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Holder.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Logic\\Holder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGame\\Logic\\Holder.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Logic\\Holder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniGame\\Logic\\Holder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:53:32.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Logic\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGame\\Logic\\Ball.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Logic\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniGame\\Logic\\Ball.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:35:20.614Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "InventoryUI.cs",
-              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Inventory\\UI\\InventoryUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\UI\\InventoryUI.cs",
-              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Inventory\\UI\\InventoryUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Inventory\\UI\\InventoryUI.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBwAAAAFAAAAAAAAAA==",
+              "Title": "GameController.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Logic\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGame\\Logic\\GameController.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Logic\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniGame\\Logic\\GameController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:11:20.81Z"
+              "WhenOpened": "2024-11-16T08:35:01.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Utilities\\Enums.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\Enums.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\Utilities\\Enums.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:30:06.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameH2A_SO.cs",
+              "DocumentMoniker": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Data\\GameH2A_SO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniGame\\Data\\GameH2A_SO.cs",
+              "ToolTip": "E:\\GitHub\\Isoland\\Assets\\Scripts\\MiniGame\\Data\\GameH2A_SO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniGame\\Data\\GameH2A_SO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:28:37.221Z"
             }
           ]
         }

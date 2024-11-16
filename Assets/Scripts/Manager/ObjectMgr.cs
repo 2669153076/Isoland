@@ -2,23 +2,45 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ObjectMgr : Singleton<ObjectMgr>
+public class ObjectMgr : Singleton<ObjectMgr>, ISaveable
 {
    private Dictionary<E_ItemName,bool> itemAvailableDic = new Dictionary<E_ItemName, bool>();   //存储道具状态的字典
    private Dictionary<string ,bool> interactiveStateDic = new Dictionary<string ,bool>();   //存储物品状态的字典
+
+    private void Start()
+    {
+        ISaveable saveable = this;
+        saveable.SaveableRegister();
+    }
 
     private void OnEnable()
     {
         EventHandler.BeforeSceneUnloadEvent += OnBeforeSceneUnloadEvent;
         EventHandler.AfterSceneLoadEvent += OnAfterSceneLoadEvent;
         EventHandler.UpdateUIEvent += OnUpdateUIEvent;
+        EventHandler.StartNewGameEvent += OnStartNewGameEvent;
     }
+
 
     private void OnDisable()
     {
         EventHandler.BeforeSceneUnloadEvent -= OnBeforeSceneUnloadEvent;
         EventHandler.AfterSceneLoadEvent -= OnAfterSceneLoadEvent;
         EventHandler.UpdateUIEvent -= OnUpdateUIEvent;
+        EventHandler.StartNewGameEvent -= OnStartNewGameEvent;
+    }
+    public GameSaveData GenerateSaveData()
+    {
+        GameSaveData saveData = new GameSaveData();
+        saveData.interactiveStateDic = this.interactiveStateDic;
+        saveData.itemAvailableDic = this.itemAvailableDic;
+        return saveData;
+    }
+
+    public void RestoreGameData(GameSaveData saveData)
+    {
+        this.interactiveStateDic = saveData.interactiveStateDic;
+        this.itemAvailableDic = saveData.itemAvailableDic;
     }
 
     /// <summary>
@@ -89,5 +111,11 @@ public class ObjectMgr : Singleton<ObjectMgr>
         {
             itemAvailableDic[itemDetails.itemName] = false;
         }
+    }
+
+    private void OnStartNewGameEvent(int gameWeek)
+    {
+        itemAvailableDic.Clear();
+        interactiveStateDic.Clear();
     }
 }

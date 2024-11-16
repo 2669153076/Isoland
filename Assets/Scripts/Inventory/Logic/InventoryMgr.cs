@@ -2,18 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class InventoryMgr : Singleton<InventoryMgr>
+public class InventoryMgr : Singleton<InventoryMgr>, ISaveable
 {
-    [SerializeField]private List<E_ItemName> itemList = new List<E_ItemName>();
+    [SerializeField]private List<E_ItemName> itemList = new List<E_ItemName>(); //道具名称列表
     public List<E_ItemName> ItemList => itemList;
 
-    public ItemDataList_SO itemData;
+    public ItemDataList_SO itemData;    //道具数据
+
+    private void Start()
+    {
+        ISaveable saveable = this;
+        saveable.SaveableRegister();
+    }
 
     private void OnEnable()
     {
         EventHandler.ItemUsedEvent += OnItemUsedEvent;
         EventHandler.ChangeItemEvent += OnChangeItemEvent;
         EventHandler.AfterSceneLoadEvent += OnAfterSceneLoadEvent;
+        EventHandler.StartNewGameEvent += OnStartNewGameEvent;
     }
 
     private void OnDisable()
@@ -21,19 +28,8 @@ public class InventoryMgr : Singleton<InventoryMgr>
         EventHandler.ItemUsedEvent -= OnItemUsedEvent;
         EventHandler.ChangeItemEvent -= OnChangeItemEvent;
         EventHandler.AfterSceneLoadEvent -= OnAfterSceneLoadEvent;
-
+        EventHandler.StartNewGameEvent -= OnStartNewGameEvent;
     }
-
-
-    private void OnItemUsedEvent(E_ItemName itemName)
-    {
-        var index = GetItemIndex(itemName);
-        itemList.RemoveAt(index);
-
-        if (itemList.Count <= 0)
-            EventHandler.CallUpdateUIEvent(null, -1);
-    }
-
 
     public void AddItem(E_ItemName itemName)
     {
@@ -43,6 +39,17 @@ public class InventoryMgr : Singleton<InventoryMgr>
             //UI显示
             EventHandler.CallUpdateUIEvent(itemData.GetItemDetails(itemName), itemList.Count - 1);
         }
+    }
+    public GameSaveData GenerateSaveData()
+    {
+        GameSaveData saveData = new GameSaveData();
+        saveData.itemList = this.itemList;
+        return saveData;
+    }
+
+    public void RestoreGameData(GameSaveData saveData)
+    {
+        this.itemList = saveData.itemList;
     }
 
     private int GetItemIndex(E_ItemName itemName)
@@ -55,6 +62,14 @@ public class InventoryMgr : Singleton<InventoryMgr>
         return -1;
     }
 
+    private void OnItemUsedEvent(E_ItemName itemName)
+    {
+        var index = GetItemIndex(itemName);
+        itemList.RemoveAt(index);
+
+        if (itemList.Count <= 0)
+            EventHandler.CallUpdateUIEvent(null, -1);
+    }
     private void OnChangeItemEvent(int index)
     {
         if(index>=0&& index < itemList.Count)
@@ -63,7 +78,6 @@ public class InventoryMgr : Singleton<InventoryMgr>
             EventHandler.CallUpdateUIEvent(item, index);
         }
     }
-
     private void OnAfterSceneLoadEvent()
     {
         if (itemList.Count <= 0)
@@ -79,4 +93,9 @@ public class InventoryMgr : Singleton<InventoryMgr>
         }
 
     }
+    private void OnStartNewGameEvent(int gameWeek)
+    {
+        itemList.Clear();
+    }
+
 }

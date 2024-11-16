@@ -12,6 +12,9 @@ public static class EventHandler
     public static event Action<int> ChangeItemEvent;    //物品栏切换物品.
     public static event Action<string> ShowDialogueEvent;   //显示对话UI事件
     public static event Action<E_GameState> GameStateChangedEvent;  //游戏状态改变事件
+    public static event Action CheckBallMatchEvent;  //检查H2A场景中球是否匹配事件
+    public static event Action<string> MiniGamePassEvent;   //游戏通关事件
+    public static event Action<int> StartNewGameEvent;  //开始新游戏事件
 
     public static event Action<ItemDetails, bool> ItemSelectedEvent;    //物体被选中事件
 
@@ -47,5 +50,17 @@ public static class EventHandler
     public static void CallGameStateChangeEvent(E_GameState state)
     {
         GameStateChangedEvent?.Invoke(state);
+    }
+    public static void CallCheckBallMatchEvent()
+    {
+        CheckBallMatchEvent?.Invoke();
+    }
+    public static void CallMiniGamePassEvent(string gameName)
+    {
+        MiniGamePassEvent?.Invoke(gameName);
+    }
+    public static void CallStartNewGameEvent(int weekId)
+    {
+        StartNewGameEvent?.Invoke(weekId);
     }
 }

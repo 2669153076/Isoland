@@ -2,6 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// 点击函数
+/// tag Interactive表示可点击物体
+/// </summary>
 public class Interactive : MonoBehaviour
 {
     public E_ItemName requireItem;

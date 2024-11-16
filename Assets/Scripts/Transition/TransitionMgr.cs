@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class TransitionMgr : Singleton<TransitionMgr>
+public class TransitionMgr : Singleton<TransitionMgr>, ISaveable
 {
     [SceneName] public string startScene;
 
@@ -15,17 +15,33 @@ public class TransitionMgr : Singleton<TransitionMgr>
 
     private void Start()
     {
-        StartCoroutine(TransitionToScene(string.Empty,startScene));
+        //StartCoroutine(TransitionToScene(string.Empty, startScene));
+        ISaveable saveable = this;
+        saveable.SaveableRegister();
     }
 
     private void OnEnable()
     {
         EventHandler.GameStateChangedEvent += OnGameStateChangeEvent;
+        EventHandler.StartNewGameEvent += OnStartNewGameEvent;
     }
 
     private void OnDisable()
     {
         EventHandler.GameStateChangedEvent -= OnGameStateChangeEvent;
+        EventHandler.StartNewGameEvent -= OnStartNewGameEvent;
+    }
+
+    public GameSaveData GenerateSaveData()
+    {
+        GameSaveData saveData = new GameSaveData();
+        saveData.curScene = SceneManager.GetActiveScene().name;
+        return saveData;
+    }
+
+    public void RestoreGameData(GameSaveData saveData)
+    {
+        Transition("MainMenu", saveData.curScene);
     }
 
     public void Transition(string from,string to)
@@ -78,9 +94,13 @@ public class TransitionMgr : Singleton<TransitionMgr>
         isFade = false;
     }
 
-
     private void OnGameStateChangeEvent(E_GameState state)
     {
         canTransition = state == E_GameState.GamePlay;
+    }
+
+    private void OnStartNewGameEvent(int gameWeek)
+    {
+        StartCoroutine(TransitionToScene("MainMenu", startScene));
     }
 }

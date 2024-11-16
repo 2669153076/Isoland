@@ -509,7 +509,7 @@ GameObject:
   - component: {fileID: 1399022180}
   - component: {fileID: 1399022179}
   m_Layer: 0
-  m_Name: Teleport to H1
+  m_Name: Teleport to H2
   m_TagString: Teleport
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

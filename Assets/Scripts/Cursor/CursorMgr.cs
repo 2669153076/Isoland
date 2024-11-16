@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class CursorMgr : Singleton<CursorMgr>
 {
@@ -31,6 +32,11 @@ public class CursorMgr : Singleton<CursorMgr>
         if (hand.gameObject.activeInHierarchy)
         {
             hand.position = Input.mousePosition;
+        }
+
+        if(InteraciWithUI())
+        {
+            return;
         }
 
         if (canClick && Input.GetMouseButtonDown(0))
@@ -93,5 +99,18 @@ public class CursorMgr : Singleton<CursorMgr>
         curItem = E_ItemName.None;
         holdItem = false;
         hand.gameObject.SetActive(holdItem);
+    }
+
+    /// <summary>
+    /// 判断鼠标是否与UI互动
+    /// </summary>
+    /// <returns></returns>
+    private bool InteraciWithUI()
+    {
+        if(EventSystem.current != null && EventSystem.current.IsPointerOverGameObject())
+        {
+            return true;
+        }
+        return false;
     }
 }
